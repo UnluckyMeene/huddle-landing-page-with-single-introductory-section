@@ -54,6 +54,17 @@ h1,
         transform: scale(1.05);
         transition-delay: 0.1s;
     }
+    
+    #social {
+        margin-right: -4rem;
+    }
+    
+    #social i {
+        margin-top: 2rem;
+        margin-right: 30px;
+        font-size: 30px;
+        float: right;
+    }
 }
 
 @media (max-width: 767.98px) {
